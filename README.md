@@ -1,4 +1,4 @@
 ip-geolocator
 ============
 
-Java class library for obtaining geolocation ingormation of an IP address.
+Java class library for obtaining geolocation information of an IP address.
